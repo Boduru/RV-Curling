@@ -4,9 +4,9 @@ Curl VR is a 3D Virtual Reality Game that allows you to play curling on your com
 
 ## Screenshots
 <p align="center">
-  <img width="200" height="auto" src="https://github.com/JimPavan/RV-Curling/screenshots/plains.png">
-  <img width="200" height="auto" src="https://github.com/JimPavan/RV-Curling/screenshots/blades.png">
-  <img width="200" height="auto" src="https://github.com/JimPavan/RV-Curling/screenshots/ea.png">
+  <img width="200" height="auto" src="https://github.com/JimPavan/RV-Curling/blob/main/screenshots/plains.png">
+  <img width="200" height="auto" src="https://github.com/JimPavan/RV-Curling/blob/main/screenshots/blades.png">
+  <img width="200" height="auto" src="https://github.com/JimPavan/RV-Curling/blob/main/screenshots/ea.png">
 </p>
 
 ## Features
