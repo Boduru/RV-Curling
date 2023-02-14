@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Assets/Materials/PurpleLight.mat.meta
+guid: 8f39ef908cbdc264799259cc198a0127
+========
+guid: 6de80042a5a869048bfdeca89e0536d4
+>>>>>>>> f64f43ea396049fb12480cd9ff127ae0c9250d1b:Assets/Assets/Materials/LightBeamBlue.mat.meta
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
